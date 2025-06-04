@@ -58,3 +58,12 @@ Giải pháp hướng tới các mô hình khu dân cư hiện đại, ký túc 
 - Tích hợp màn hình hiển thị hoặc mở cửa thông minh khi nhận diện thành công.
 
 ---
+
+## 👤 Thông tin sinh viên
+
+- **Họ tên:** Trần Duy Phúc
+- **Mã SV:** 1571020205
+- **Lớp:** Lớp CNTT 15-02
+- **Trường:** Đại học Đại Nam
+
+---
